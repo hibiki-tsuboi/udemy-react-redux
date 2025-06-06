@@ -7,18 +7,15 @@ import PropTypes from 'prop-types';
 // return dom;
 
 // return <input type="text" onClick={() => {
-//   console.log("I am clicked.")
 // }}/>
 
 // return <input type="text" onChange={() => {
-//   console.log("I am clicked.")
 // }}/>
 
 //   return (
 //     <React.Fragment>
 //       <label htmlFor="bar">bar</label>
 //       <input type="text" onChange={() => {
-//         console.log("I am clicked.")
 //       }}/>
 //     </React.Fragment>
 //   )
