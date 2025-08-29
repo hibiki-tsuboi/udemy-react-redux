@@ -33,6 +33,7 @@ const App = () => {
 
   return (
     <div>
+      <h1>ユーザー管理 v2</h1>
       {
         profiles.map((profile, index) => {
           return <User name={profile.name} age={profile.age} key={index}/>
